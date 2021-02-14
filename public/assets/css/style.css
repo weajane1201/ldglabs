@@ -1,0 +1,22 @@
+.container-fluid, .navbar, .jumbotron .row{padding: 0 !important; }
+
+body, .jumbotron .row{margin: 0;}
+/* .navbar{background: transparent;margin-bottom: -50px;} */
+.navbar-light .navbar-nav .nav-link{color: #fff !important; transition: color 0.3s linear; -webkit-transition: color 0.3s linear; -moz-transition: color 0.3s linear; }
+.banner-content{padding: 14rem 0;}
+.banner-content{color: #fff;}
+.banner-content-pages{height: 300px;}
+.page-banner-title{text-align: center;background: #27305D;
+ padding: 35px;
+ margin-top: -65px !important;
+ margin-bottom: 65px;}
+.page-banner-title h1{color: #fff;}
+.navigation-container{margin-top: 20px;}
+.banner-custom{margin-top: -111px;}
+.navbar-light .navbar-nav li a:hover{color: #CA9C3D !important;}
+.footer{background: #fff; color: #CA9C3D;}
+
+ @media (min-width: 992px){
+  .ldg-navigation .navbar-expand-lg .navbar-nav .nav-link {padding-right: 2.5rem;}
+ }
+
