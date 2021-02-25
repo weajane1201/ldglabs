@@ -25,6 +25,7 @@
         <div class="row">
            
             <div class="col-md">
+             <p> Test</p>
                 <p>“Out of everything in the world, diamonds are the most valuable” – Pliny, 1 – 99 AD.
                 Long before civilization found ways to beautify and modify precious stones, diamond has always been a valued commodity among humans. From its earliest discoveries in Indian water bodies; to its trading in Venice’s Medieval markets; and its use on the jewelry items of European elites, the diamond has always traversed a priceless course.
                 Over the millennia, methods have also been developed to further extricate the beauty of diamonds from their natural coverings. Several gem laboratories have emerged with the vision of helping both retailers and diamond owners to get conversant with their stones. Surely this emergence begs the question of ‘why LDG has emerged amidst thousands of other gem labs.
