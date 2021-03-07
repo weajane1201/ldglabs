@@ -1,6 +1,13 @@
 .container-fluid, .navbar, .jumbotron .row{padding: 0 !important; }
 
 body, .jumbotron .row{margin: 0;}
+@font-face {
+    font-family: "Slabo";
+    src: url('{{asset("assets/fonts/slabo27px-regular-webfont.ttf")}}');
+    src: url('{{asset("assets/fonts/slabo27px-regular-webfont.woff")}}') format("woff");
+}
+h2{font-family: "Slabo"; color: #CA9C3D;}
+p{color: #707070; }
 /* .navbar{background: transparent;margin-bottom: -50px;} */
 .navbar-light .navbar-nav .nav-link{color: #fff !important; transition: color 0.3s linear; -webkit-transition: color 0.3s linear; -moz-transition: color 0.3s linear; }
 .banner-content{padding: 14rem 0;}
@@ -13,10 +20,21 @@ body, .jumbotron .row{margin: 0;}
 .page-banner-title h1{color: #fff;}
 .navigation-container{margin-top: 20px;}
 .banner-custom{margin-top: -111px;}
-.navbar-light .navbar-nav li a:hover{color: #CA9C3D !important;}
+.navbar-light .navbar-nav li a:hover{color:s #CA9C3D !important;}
 .footer{background: #fff; color: #CA9C3D;}
+.our-commitment-row h2:after{
+    content: ""; 
+    display: block;
+    width: 20%;
+    padding-top: 10px; 
+    border-bottom: 5px solid #CC9B4E;
+}
+.card{border: none !important;}
 
  @media (min-width: 992px){
   .ldg-navigation .navbar-expand-lg .navbar-nav .nav-link {padding-right: 2.5rem;}
  }
 
+
+
+ 
