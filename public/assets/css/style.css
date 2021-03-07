@@ -29,6 +29,12 @@ p{color: #707070; }
     padding-top: 10px; 
     border-bottom: 5px solid #CC9B4E;
 }
+
+.our-commitment-row{    background: #f7f7f791;
+    padding: 3rem;
+    margin-right: -115px;
+    z-index: 999;
+    margin-bottom: 80px; padding: 3rem !important;}
 .card{border: none !important;}
 
  @media (min-width: 992px){

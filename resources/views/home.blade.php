@@ -21,7 +21,7 @@
 @section('content')
 
 <div class="row">
-    <div class="col mt-5 our-commitment-row" style="background: #F7F7F7;">
+    <div class="col mt-5 our-commitment-row" >
     <h2 style="">Our Commitment</h2>
     <p style="margin-top: 3rem;">Lion Diamonds Group sells genuine loose diamonds, certified by GIA. Lion Diamonds is a true American success story and can trace its beginnings to the United States bicentennial year of 1976. The Domatov family has worked in every facet of the diamond business including polishing and cutting raw stones, importing and exporting as well as e-commerce.
     </p></div>
