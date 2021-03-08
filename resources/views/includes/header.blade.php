@@ -9,7 +9,7 @@
 <div class="container ldg-navigation">
         <div class="row">
                 <div class="col-md"><a class="navbar-brand" href="/"><img src="{{asset('assets/images/logo.png')}}" alt="" style="width: 35%;"></a></div>
-                <div class="col-md-9">
+                <div class="col-md-10">
                         <div class="d-flex justify-content-end navigation-container">
                                 <nav class="navbar navbar-expand-lg navbar-light">
                                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
