@@ -35,6 +35,9 @@
                                                         <li class="nav-item">
                                                         <a class="nav-link" href="https://portal.ldglabs.com/">Portal</a>
                                                         </li>
+                                                        <li class="nav-item">
+                                                        <a class="nav-link" href="https://portal.ldglabs.com/certification-lookup.php">Certification Lookup</a>
+                                                        </li>
                                                 </ul>
                                         </div>
                                 </nav>
