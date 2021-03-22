@@ -22,19 +22,22 @@ p{color: #707070; }
 .banner-custom{margin-top: -111px;}
 .navbar-light .navbar-nav li a:hover{color:s #CA9C3D !important;}
 .footer{background: #fff; color: #CA9C3D;}
-.our-commitment-row h2:after{
-    content: ""; 
+.our-commitment-row h3:after{
+    content: "";
     display: block;
     width: 20%;
-    padding-top: 10px; 
-    border-bottom: 5px solid #CC9B4E;
+    float: right;
+    padding-top: 5px;
+    border-bottom: 4px solid #272F5D;
 }
-
-.our-commitment-row{    background: #f7f7f791;
+.our-commitment-row h3{    width: 20%;
+    font-size: 20px;
+    font-weight: bold;}
+.our-commitment-row{
     padding: 3rem;
     margin-right: -115px;
     z-index: 999;
-    margin-bottom: 80px; padding: 3rem !important;}
+     padding: 3rem !important;}
 .card{border: none !important;}
 
  @media (min-width: 992px){
