@@ -142,8 +142,10 @@
 <div class="container" data-aos="fade-up" style="margin-top: 4rem; margin-bottom: 5rem;">
 
   <header class="section-header">
-    <h3>Features</h3>
-    <p>Laboriosam et omnis fuga quis dolor direda fara</p>
+    <h3>The Laboratory Diamonds Grading</h3>
+    <p style="margin-top: 3rem;">The diamond industry is quickly scaling up. With each passing day, the industry experiences exponential growth in its different sectors, and so the importance of prompt, premium services among diamond service providers cannot be overemphasized.</p>
+    <p>On note of this growth, the Laboratory Diamonds Grading is dedicated to providing nothing short of premium quality services to our clients. We also ensure that diamond experts who transact with us enjoy fantastic benefits via the following lines of service:
+</p>
   </header>
 
   <div class="row">
@@ -157,43 +159,43 @@
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Eos aspernatur rem</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Flawless and professional grading.</h3>
           </div>
         </div>
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Facilis neque ipsa</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Adhering to the highest measure of objectivity during grading.</h3>
           </div>
         </div>
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="400">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Volup amet voluptas</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Strict compliance with prevailing standards set by international diamond organizations during every grading process.</h3>
           </div>
         </div>
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="500">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Rerum omnis sint</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Employment of professionals that are skilled and well-trained to use sophisticated grading equipment, and also comply with prevailing standards.</h3>
           </div>
         </div>
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="600">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Alias possimus</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Provision of certificates for appraised gemstones and jewelry items.</h3>
           </div>
         </div>
 
         <div class="col-md-6" data-aos="zoom-out" data-aos-delay="700">
           <div class="feature-box d-flex align-items-center">
-            <i class="bi bi-check"></i>
-            <h3>Repellendus mollitia</h3>
+            <i class="far fa-check-square"></i>
+            <h3>Ensuring that our business locations do not jeopardize the convenience of our clients.</h3>
           </div>
         </div>
 

@@ -94,4 +94,12 @@ ul li{list-style-type: none;}
 
 
 
- 
+ .features .feature-box i {
+    line-height: 0;
+    background: #ecf3ff;
+    padding: 4px;
+    margin-right: 10px;
+    font-size: 24px;
+    border-radius: 3px;
+    transition: 0.3s;
+}
