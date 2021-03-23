@@ -9,8 +9,8 @@
         <div class="col">
         <div class="banner-content">
             <div class="mh-100" style="width: 100%; height: 100%; ">
-                <h1 style="font-size: 80px; ">LOREM IPSUM</h1>
-                <p><em>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</em></p>
+                <h1 style="font-size: 80px; ">LDG LABS</h1>
+                <!-- <p><em>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</em></p> -->
             </div>
         </div>
     </div>
