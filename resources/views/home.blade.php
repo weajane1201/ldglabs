@@ -96,45 +96,8 @@
 
 </section><!-- End Values Section -->
 
-<div class="row">
-    <div class="col mt-5 our-commitment-row" >
-        <h2>The Laboratory Diamonds Grading </h2>
-        <p style="margin-top: 3rem;">The diamond industry is quickly scaling up. With each passing day, the industry experiences exponential growth in its different sectors, and so the importance of prompt, premium services among diamond service providers cannot be overemphasized.</p>
-
-        <p> On note of this growth, the Laboratory Diamonds Grading is dedicated to providing nothing short of premium quality services to our clients. We also ensure that diamond experts who transact with us enjoy fantastic benefits via the following lines of service:</p>
-    </div>
-</div>
-
 
   
-
-<div class="row">
-    <div class="col">
-        <div class="row">
-        <div class="col">
-            <ul>
-                <li><i class="fas fa-angle-right"></i>Flawless and professional grading.</li>
-                <li><i class="fas fa-angle-right"></i>Adhering to the highest measure of objectivity during grading. </li>
-                <li><i class="fas fa-angle-right"></i>Strict compliance with prevailing standards set by international diamond organizations during every grading process.</li>
-                <li><i class="fas fa-angle-right"></i>Employment of professionals that are skilled and well-trained to use sophisticated grading equipment, and also comply with prevailing standards.</li>
-                <li><i class="fas fa-angle-right"></i>Provision of certificates for appraised gemstones and jewelry items.</li>
-            </ul>
-        </div>
-        <div class="col">
-            <ul>
-                <li><i class="fas fa-angle-right"></i>Ensuring that our business locations do not jeopardize the convenience of our clients.</li>
-                <li><i class="fas fa-angle-right"></i>Utilizing our vast experience to provide consultation services on polished diamond improvements, alongside the planning and marking of rough diamonds.</li>
-                <li><i class="fas fa-angle-right"></i>Training and keeping our professionals abreast of the latest developments in the industry.</li>
-                <li><i class="fas fa-angle-right"></i>Guidance for consumers who need help in deciding the diamond type to purchase.</li>
-                <li><i class="fas fa-angle-right"></i>Running promotional ads on prominent platforms such as trade magazines and digital ads. We also reach into the spotlight of global diamond functions such as tradeshows and exhibits.</li>
-            </ul>
-        </div>
-        </div>
-    
-    </div>
-</div>
-</div>
-
 
  <!-- ======= Features Section ======= -->
  <section id="features" class="features">
