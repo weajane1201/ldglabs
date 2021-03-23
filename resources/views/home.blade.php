@@ -20,23 +20,94 @@
 
 @section('content')
 
-<div class="row">
-    <div class="col mt-5 our-commitment-row" >
-    <h2 style="">Our Commitment</h2>
-    <p style="margin-top: 3rem;">Lion Diamonds Group sells genuine loose diamonds, certified by GIA. Lion Diamonds is a true American success story and can trace its beginnings to the United States bicentennial year of 1976. The Domatov family has worked in every facet of the diamond business including polishing and cutting raw stones, importing and exporting as well as e-commerce.
-    </p></div>
-    <div class="col"><img src="{{asset('assets/images/5F5A3714-Edit.png')}}" class="img-fluid" alt="Responsive image"></div>
+
+ <!-- ======= About Section ======= -->
+ <section id="about" class="about">
+
+<div class="container" data-aos="fade-up">
+  <div class="row gx-0">
+
+    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+      <div class="content">
+        <h3>Who We Are</h3>
+        <h2>“Out of everything in the world, diamonds are the most valuable” – Pliny, 1 – 99 AD.</h2>
+        <p>
+        Long before civilization found ways to beautify and modify precious stones, diamond has always been a valued commodity among humans. From its earliest discoveries in Indian water bodies; to its trading in Venice’s Medieval markets; and its use on the jewelry items of European elites, the diamond has always traversed a priceless course.
+        </p>
+
+        <div class="text-center text-lg-start">
+          <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+            <span>Read More</span>
+            <i class="bi bi-arrow-right"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+      <img src="{{asset('assets/images/5F5A3714-Edit.png')}}" class="" alt="">
+    </div>
+
+  </div>
 </div>
+
+</section><!-- End About Section -->
+
+  <!-- ======= Values Section ======= -->
+<section id="values" class="values">
+
+<div class="container" data-aos="fade-up">
+
+  <header class="section-header">
+    <h3>OUR SERVICES</h3>
+    <h2 style="text-align: center;">LDG Value-Added Services</h2>
+    <p>At LDG, we know how dynamic the diamond industry is. Our professionals also understand how important time and valuable service are to diamond merchants. We also understand that there are times when you may need to quickly grade a gemstone to close a deal with your client within a short time. Hence, in addition to our basic grading service, we also offer additional services that give you real value for your money.</p>
+  </header>
+
+  <div class="row">
+
+    <div class="col-lg-4">
+      <div class="box" data-aos="fade-up" data-aos-delay="200">
+        <img src="assets/img/values-1.png" class="img-fluid" alt="">
+        <h3>Door-to-Door Service</h3>
+        <p>In a bid to ensure that your convenience is not jeopardized, we have included door-to-door service in our list of value-added services. You only need to pay a small fee, in addition to the cost of our key services.</p>
+      </div>
+    </div>
+
+    <div class="col-lg-4 mt-4 mt-lg-0">
+      <div class="box" data-aos="fade-up" data-aos-delay="400">
+        <img src="assets/img/values-2.png" class="img-fluid" alt="">
+        <h3>Same-Day Appraisal</h3>
+        <p>For those sales you need to complete with valid certification, and within a short time, you can count on us to deliver. We offer same-day diamond grading services so that you will never lose your customers due to delayed grading.</p>
+      </div>
+    </div>
+
+    <div class="col-lg-4 mt-4 mt-lg-0">
+      <div class="box" data-aos="fade-up" data-aos-delay="600">
+        <img src="assets/img/values-3.png" class="img-fluid" alt="">
+        <h3>Basic Assessment</h3>
+        <p>You may want to try a preliminary assessment of your diamonds before committing to complete grading. We offer a basic assessment service for the clarity and color of diamonds. This assessment result is stored separately from full grading reports and used as a reference for further evaluation of the stones in question.</p>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+</section><!-- End Values Section -->
 
 <div class="row">
     <div class="col mt-5 our-commitment-row" >
-        <h3 style="color: #272F5D; ">OUR SERVICES</h3>
         <h2>The Laboratory Diamonds Grading </h2>
         <p style="margin-top: 3rem;">The diamond industry is quickly scaling up. With each passing day, the industry experiences exponential growth in its different sectors, and so the importance of prompt, premium services among diamond service providers cannot be overemphasized.</p>
 
         <p> On note of this growth, the Laboratory Diamonds Grading is dedicated to providing nothing short of premium quality services to our clients. We also ensure that diamond experts who transact with us enjoy fantastic benefits via the following lines of service:</p>
     </div>
 </div>
+
+
+  
+
 <div class="row">
     <div class="col">
         <div class="row">
@@ -63,6 +134,218 @@
     </div>
 </div>
 </div>
+
+
+ <!-- ======= Features Section ======= -->
+ <section id="features" class="features">
+
+<div class="container" data-aos="fade-up">
+
+  <header class="section-header">
+    <h3>Features</h3>
+    <p>Laboriosam et omnis fuga quis dolor direda fara</p>
+  </header>
+
+  <div class="row">
+
+    <div class="col-lg-6">
+      <img src="{{asset('assets/images/homebanner3.jpg')}}" class="img-fluid" alt="">
+    </div>
+
+    <div class="col-lg-6 mt-5 mt-lg-0 d-flex">
+      <div class="row align-self-center gy-4">
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Eos aspernatur rem</h3>
+          </div>
+        </div>
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Facilis neque ipsa</h3>
+          </div>
+        </div>
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="400">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Volup amet voluptas</h3>
+          </div>
+        </div>
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="500">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Rerum omnis sint</h3>
+          </div>
+        </div>
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="600">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Alias possimus</h3>
+          </div>
+        </div>
+
+        <div class="col-md-6" data-aos="zoom-out" data-aos-delay="700">
+          <div class="feature-box d-flex align-items-center">
+            <i class="bi bi-check"></i>
+            <h3>Repellendus mollitia</h3>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div> <!-- / row -->
+
+  <!-- Feature Tabs -->
+  <div class="row feture-tabs" data-aos="fade-up">
+    <div class="col-lg-6">
+      <h3>Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
+
+      <!-- Tabs -->
+      <ul class="nav nav-pills mb-3">
+        <li>
+          <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a>
+        </li>
+        <li>
+          <a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a>
+        </li>
+        <li>
+          <a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a>
+        </li>
+      </ul><!-- End Tabs -->
+
+      <!-- Tab Content -->
+      <div class="tab-content">
+
+        <div class="tab-pane fade show active" id="tab1">
+          <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+          </div>
+          <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Incidunt non veritatis illum ea ut nisi</h4>
+          </div>
+          <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+        </div><!-- End Tab 1 Content -->
+
+        <div class="tab-pane fade show" id="tab2">
+          <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+          </div>
+          <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Incidunt non veritatis illum ea ut nisi</h4>
+          </div>
+          <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+        </div><!-- End Tab 2 Content -->
+
+        <div class="tab-pane fade show" id="tab3">
+          <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+          </div>
+          <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+          <div class="d-flex align-items-center mb-2">
+            <i class="bi bi-check2"></i>
+            <h4>Incidunt non veritatis illum ea ut nisi</h4>
+          </div>
+          <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+        </div><!-- End Tab 3 Content -->
+
+      </div>
+
+    </div>
+
+    <div class="col-lg-6">
+      <img src="assets/img/features-2.png" class="img-fluid" alt="">
+    </div>
+
+  </div><!-- End Feature Tabs -->
+
+  <!-- Feature Icons -->
+  <div class="row feature-icons" data-aos="fade-up">
+    <h3>Ratione mollitia eos ab laudantium rerum beatae quo</h3>
+
+    <div class="row">
+
+      <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
+        <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+      </div>
+
+      <div class="col-xl-8 d-flex content">
+        <div class="row align-self-center gy-4">
+
+          <div class="col-md-6 icon-box" data-aos="fade-up">
+            <i class="ri-line-chart-line"></i>
+            <div>
+              <h4>Corporis voluptates sit</h4>
+              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <i class="ri-stack-line"></i>
+            <div>
+              <h4>Ullamco laboris nisi</h4>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <i class="ri-brush-4-line"></i>
+            <div>
+              <h4>Labore consequatur</h4>
+              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <i class="ri-magic-line"></i>
+            <div>
+              <h4>Beatae veritatis</h4>
+              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+            <i class="ri-command-line"></i>
+            <div>
+              <h4>Molestiae dolor</h4>
+              <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+            <i class="ri-radar-line"></i>
+            <div>
+              <h4>Explicabo consectetur</h4>
+              <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div><!-- End Feature Icons -->
+
+</div>
+
+</section><!-- End Features Section -->
 
 
 @endsection
